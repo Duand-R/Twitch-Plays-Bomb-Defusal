@@ -7,6 +7,7 @@ public class BombVoteManager : MonoBehaviour
     public BombManager bombManager;
 
     public float voteTime = 20f;
+    public RedFlash redFlash;
 
     public TMP_Text timerText;
     public TMP_Text votesText;
@@ -16,6 +17,7 @@ public class BombVoteManager : MonoBehaviour
 
     private float timeLeft;
     private bool voting;
+
 
     private void Start()
     {
@@ -29,6 +31,7 @@ public class BombVoteManager : MonoBehaviour
         if (bombManager.gameOver)
         {
             voting = false;
+            redFlash.SetFlashing(false);
             return;
         }
 
@@ -38,10 +41,14 @@ public class BombVoteManager : MonoBehaviour
 
         timerText.text = Mathf.CeilToInt(timeLeft).ToString();
 
-        if (timeLeft <= 0f)
-            FinishVote();
-    }
+        redFlash.SetFlashing(timeLeft <= 10f);
 
+        if (timeLeft <= 0f)
+        {
+            redFlash.SetFlashing(false);
+            FinishVote();
+        }
+    }
     public void Vote(string user, string message)
     {
         if (!voting || bombManager.gameOver) return;
@@ -88,7 +95,8 @@ public class BombVoteManager : MonoBehaviour
     private void UpdateVotes()
     {
         votesText.text =
-            "RED: " + Count("red") +
+            "Vote Count" +
+            "\nRED: " + Count("red") +
             "\nBLUE: " + Count("blue") +
             "\nYELLOW: " + Count("yellow");
     }
@@ -117,6 +125,8 @@ public class BombVoteManager : MonoBehaviour
 
     public void RestartBomb()
     {
+        redFlash.SetFlashing(false);
+
         bombManager.ResetBomb();
 
         votes.Clear();
