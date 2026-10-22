@@ -8,15 +8,22 @@ public class BombManager : MonoBehaviour
     public string correctWire = "red";
 
     public TMP_Text resultText;
+
     public GameObject redWire;
     public GameObject blueWire;
     public GameObject yellowWire;
+
+    public GameObject winPanel;
+    public GameObject losePanel;
 
     public bool gameOver { get; private set; }
 
     private void Awake()
     {
         Instance = this;
+
+        winPanel.SetActive(false);
+        losePanel.SetActive(false);
     }
 
     public void CutWire(string color)
@@ -37,16 +44,16 @@ public class BombManager : MonoBehaviour
         bool success =
             color == correctWire.Trim().ToLowerInvariant();
 
-        resultText.text = success
-            ? "BOMB DEFUSED!"
-            : "BOOM! WRONG WIRE!";
-
-        Debug.Log(resultText.text);
+        winPanel.SetActive(success);
+        losePanel.SetActive(!success);
     }
 
     public void ResetBomb()
     {
         gameOver = false;
+
+        winPanel.SetActive(false);
+        losePanel.SetActive(false);
 
         redWire.SetActive(true);
         blueWire.SetActive(true);
