@@ -95,14 +95,6 @@ public class BombVoteManager : MonoBehaviour
 
     private void FinishVote()
     {
-        if (votes.Count == 0)
-        {
-            timeLeft = Mathf.Max(1f, voteTime);
-            bombManager.resultText.text =
-                "No votes! Vote again: r / b / y";
-            return;
-        }
-
         voting = false;
 
         int highest = Mathf.Max(

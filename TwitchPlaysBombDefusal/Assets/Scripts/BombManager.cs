@@ -7,8 +7,6 @@ public class BombManager : MonoBehaviour
 
     public string correctWire = "red";
 
-    public TMP_Text resultText;
-
     public GameObject redWire;
     public GameObject blueWire;
     public GameObject yellowWire;
@@ -58,7 +56,5 @@ public class BombManager : MonoBehaviour
         redWire.SetActive(true);
         blueWire.SetActive(true);
         yellowWire.SetActive(true);
-
-        resultText.text = "Vote: r / b / y";
     }
 }
