@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class NextSceneButton : MonoBehaviour
 {
@@ -7,7 +6,6 @@ public class NextSceneButton : MonoBehaviour
 
     public void LoadNextScene()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(nextSceneName);
+        SceneTransition.Load(nextSceneName);
     }
 }

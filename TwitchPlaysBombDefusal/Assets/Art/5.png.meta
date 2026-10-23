@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: fe88f3a383b0e654aa7ffd100cb04859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7281671414500093946
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._0
+  - first:
+      213: 7545682862159869862
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._1
+  - first:
+      213: -8325143595993447427
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._2
+  - first:
+      213: -2295187446928267662
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._3
+  - first:
+      213: 2354902233714444689
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._4
+  - first:
+      213: -3885537918625422713
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._5
+  - first:
+      213: 3735607835899390888
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._6
+  - first:
+      213: -4858561621857520652
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._7
+  - first:
+      213: -8884571434732440619
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._8
+  - first:
+      213: 1394202233882225152
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._9
+  - first:
+      213: 7717611465210543825
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._10
+  - first:
+      213: 8567447178451932061
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._11
+  - first:
+      213: -3903530021620820257
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._12
+  - first:
+      213: -8565433516167041742
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._13
+  - first:
+      213: 1323435261275523961
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._14
+  - first:
+      213: -9191163772343013958
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._15
+  - first:
+      213: 5992767788185778985
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._16
+  - first:
+      213: 1292172394608711358
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._17
+  - first:
+      213: 6109452010878488139
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._18
+  - first:
+      213: 5093840189340295766
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._19
+  - first:
+      213: -6703081503299961851
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._20
+  - first:
+      213: 932841695729026167
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._21
+  - first:
+      213: 7642526305968599075
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._22
+  - first:
+      213: 6448540282583920039
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._23
+  - first:
+      213: 7621280583829474912
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._24
+  - first:
+      213: 1059234553838641904
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._25
+  - first:
+      213: 1729132200791564164
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._26
+  - first:
+      213: -8474411767705653560
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._27
+  - first:
+      213: -6504933162519033153
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._28
+  - first:
+      213: -3524150981866215212
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._29
+  - first:
+      213: -3807036484117650297
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._30
+  - first:
+      213: 4802194180433732850
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._31
+  - first:
+      213: -8393417719848432824
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._32
+  - first:
+      213: 1099907648037009190
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._33
+  - first:
+      213: 7029617566049774768
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._34
+  - first:
+      213: 5349549912874739720
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._35
+  - first:
+      213: -8540986813822143975
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._36
+  - first:
+      213: 3745233005171448939
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._37
+  - first:
+      213: -8933900111267304864
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._38
+  - first:
+      213: -1898821379419705223
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._39
+  - first:
+      213: 5308121116107009716
+    second: Type R for the RED wire, B for BLUE, or Y for YELLOW._40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6001b9fad6e42fa90800000000000000
+      internalID: -7281671414500093946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7baca9596a7b860800000000000000
+      internalID: 7545682862159869862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 16
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df341b80206277c80800000000000000
+      internalID: -8325143595993447427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 15
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a7ec6d2bd520e0800000000000000
+      internalID: -2295187446928267662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199c251da1b4ea020800000000000000
+      internalID: 2354902233714444689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 16
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782650779dbc31ac0800000000000000
+      internalID: -3885537918625422713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 16
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe2fed88b87d330800000000000000
+      internalID: 3735607835899390888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 16
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f336d952fbe29cb0800000000000000
+      internalID: -4858561621857520652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 66
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b0334a59a3b480800000000000000
+      internalID: -8884571434732440619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._9
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 16
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a2b9f7b83395310800000000000000
+      internalID: 1394202233882225152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 16
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3b5aecb67a1b60800000000000000
+      internalID: 7717611465210543825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 16
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93dc8701dfa5e670800000000000000
+      internalID: 8567447178451932061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._12
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 16
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d73b8020e3d9c0800000000000000
+      internalID: -3903530021620820257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._13
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 15
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d63a14997712980800000000000000
+      internalID: -8565433516167041742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._14
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 16
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bcd87bb59cd5210800000000000000
+      internalID: 1323435261275523961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._15
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 16
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2e05fe3d627080800000000000000
+      internalID: -9191163772343013958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._16
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 16
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b77346d869a2350800000000000000
+      internalID: 5992767788185778985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._17
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 16
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d73952f7bee110800000000000000
+      internalID: 1292172394608711358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._18
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 16
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e45b01c3229c450800000000000000
+      internalID: 6109452010878488139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._19
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 16
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ac34f9a4f0b640800000000000000
+      internalID: 5093840189340295766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._20
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 16
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c705f13eed9f2a0800000000000000
+      internalID: -6703081503299961851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._21
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 15
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740a91749e12fc00800000000000000
+      internalID: 932841695729026167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._22
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 16
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32036d5fe25bf0a60800000000000000
+      internalID: 7642526305968599075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad263f9831dd7950800000000000000
+      internalID: 6448540282583920039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eccbccf4a34c960800000000000000
+      internalID: 7621280583829474912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22f53f63823be00800000000000000
+      internalID: 1059234553838641904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 16
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fded5439c1ff710800000000000000
+      internalID: 1729132200791564164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 15
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cea3898567d46a80800000000000000
+      internalID: -8474411767705653560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 16
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba0568d0c5d9b5a0800000000000000
+      internalID: -6504933162519033153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 16
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8250f8a53b71fc0800000000000000
+      internalID: -3524150981866215212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._30
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 16
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784273dfc70ba2bc0800000000000000
+      internalID: -3807036484117650297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 15
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4633bf922d4a240800000000000000
+      internalID: 4802194180433732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b07f4dd07948b80800000000000000
+      internalID: -8393417719848432824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._33
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6273bf6ad28a34f00800000000000000
+      internalID: 1099907648037009190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._34
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 16
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2e3b8ee73e8160800000000000000
+      internalID: 7029617566049774768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._35
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ee197d4b6d3a40800000000000000
+      internalID: 5349549912874739720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._36
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f5d2beb1587980800000000000000
+      internalID: -8540986813822143975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._37
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 16
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c105a339db9f330800000000000000
+      internalID: 3745233005171448939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._38
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 15
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae611ce29640480800000000000000
+      internalID: -8933900111267304864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 16
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97075cb040806a5e0800000000000000
+      internalID: -1898821379419705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Type R for the RED wire, B for BLUE, or Y for YELLOW._40
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 15
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beee4e080c3aa940800000000000000
+      internalID: 5308121116107009716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._0: -7281671414500093946
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._1: 7545682862159869862
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._10: 7717611465210543825
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._11: 8567447178451932061
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._12: -3903530021620820257
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._13: -8565433516167041742
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._14: 1323435261275523961
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._15: -9191163772343013958
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._16: 5992767788185778985
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._17: 1292172394608711358
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._18: 6109452010878488139
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._19: 5093840189340295766
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._2: -8325143595993447427
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._20: -6703081503299961851
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._21: 932841695729026167
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._22: 7642526305968599075
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._23: 6448540282583920039
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._24: 7621280583829474912
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._25: 1059234553838641904
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._26: 1729132200791564164
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._27: -8474411767705653560
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._28: -6504933162519033153
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._29: -3524150981866215212
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._3: -2295187446928267662
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._30: -3807036484117650297
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._31: 4802194180433732850
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._32: -8393417719848432824
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._33: 1099907648037009190
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._34: 7029617566049774768
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._35: 5349549912874739720
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._36: -8540986813822143975
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._37: 3745233005171448939
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._38: -8933900111267304864
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._39: -1898821379419705223
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._4: 2354902233714444689
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._40: 5308121116107009716
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._5: -3885537918625422713
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._6: 3735607835899390888
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._7: -4858561621857520652
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._8: -8884571434732440619
+      Type R for the RED wire, B for BLUE, or Y for YELLOW._9: 1394202233882225152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

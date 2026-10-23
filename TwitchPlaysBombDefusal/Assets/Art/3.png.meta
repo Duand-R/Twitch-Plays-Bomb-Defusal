@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: afd91869e68b2034c8f65fefb3cc23af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 941820597521431412
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._0"
+  - first:
+      213: 2017545229247993549
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._1"
+  - first:
+      213: -2176129185026896288
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._2"
+  - first:
+      213: -3112254811377648499
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._3"
+  - first:
+      213: 5241503878418141906
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._4"
+  - first:
+      213: 576556871133714388
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._5"
+  - first:
+      213: -6561002921635104985
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._6"
+  - first:
+      213: -6640637645848478823
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._7"
+  - first:
+      213: -3744312429597379076
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._8"
+  - first:
+      213: 1684828451573084324
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._9"
+  - first:
+      213: -6777156225816839387
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._10"
+  - first:
+      213: -4341080395800980939
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._11"
+  - first:
+      213: -4522641587544692863
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._12"
+  - first:
+      213: -4273365937320567900
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._13"
+  - first:
+      213: -2425326276772402236
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._14"
+  - first:
+      213: 2923352331611141735
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._15"
+  - first:
+      213: -9049276868736890910
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._16"
+  - first:
+      213: -5120453421842808348
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._17"
+  - first:
+      213: -2633205819471853747
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._18"
+  - first:
+      213: 4612478297906819230
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._19"
+  - first:
+      213: -3084624041580516214
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._20"
+  - first:
+      213: -6403935820959126427
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._21"
+  - first:
+      213: 46878624928411250
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._22"
+  - first:
+      213: 6785107511270134607
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._23"
+  - first:
+      213: -1471137802445189777
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._24"
+  - first:
+      213: -2681920727772152840
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._25"
+  - first:
+      213: 741403656708441621
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._26"
+  - first:
+      213: -7791307124641963991
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._27"
+  - first:
+      213: -4173570806212123987
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._28"
+  - first:
+      213: 7123894746794416081
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._29"
+  - first:
+      213: 8648710764777320909
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._30"
+  - first:
+      213: -135872627011817037
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._31"
+  - first:
+      213: 3612618385994926210
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._32"
+  - first:
+      213: 7496726766919374970
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._33"
+  - first:
+      213: 5737252880567414599
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._34"
+  - first:
+      213: 4129645319392910520
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._35"
+  - first:
+      213: -6450454359494280363
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._36"
+  - first:
+      213: -2082634605087375386
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._37"
+  - first:
+      213: -6861592447017518573
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._38"
+  - first:
+      213: -2552056608586670298
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._39"
+  - first:
+      213: 2777438781579095742
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._40"
+  - first:
+      213: -939199623193765477
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._41"
+  - first:
+      213: 842757353207634774
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._42"
+  - first:
+      213: -2075098737280800070
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._43"
+  - first:
+      213: -2134664692866602298
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._44"
+  - first:
+      213: -3761491977352619719
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._45"
+  - first:
+      213: -6665471004991405499
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._46"
+  - first:
+      213: -8915413619701629708
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._47"
+  - first:
+      213: -2148034481374542231
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._48"
+  - first:
+      213: 1944376172765090104
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._49"
+  - first:
+      213: -19231762162936348
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._50"
+  - first:
+      213: -3853617573544946289
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._51"
+  - first:
+      213: -8721162328394482103
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._52"
+  - first:
+      213: -3691008757654894116
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._53"
+  - first:
+      213: 4837431335307956434
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._54"
+  - first:
+      213: 1233517687979259541
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._55"
+  - first:
+      213: -6340859652030871987
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._56"
+  - first:
+      213: -5113916719999534045
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._57"
+  - first:
+      213: 6006419687338676855
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._58"
+  - first:
+      213: -1665025060683939611
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._59"
+  - first:
+      213: 5054917438530192922
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._60"
+  - first:
+      213: 7184250147926461116
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._61"
+  - first:
+      213: -1775202967203490129
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._62"
+  - first:
+      213: 9093118418038636010
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._63"
+  - first:
+      213: -5069008569595457821
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._64"
+  - first:
+      213: 8359286159607066026
+    second: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._65"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b396de7d4021d00800000000000000
+      internalID: 941820597521431412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._1"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 18
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65c9352b2cffb10800000000000000
+      internalID: 2017545229247993549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._2"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 17
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e8c1d2906dcc1e0800000000000000
+      internalID: -2176129185026896288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._3"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 54
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb55d0dbc0fc4d0800000000000000
+      internalID: -3112254811377648499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._4"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 17
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d212f9b1009db840800000000000000
+      internalID: 5241503878418141906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._5"
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 17
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d75cb86b67500800800000000000000
+      internalID: 576556871133714388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._6"
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 17
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b3adba92a2f4a0800000000000000
+      internalID: -6561002921635104985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._7"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 18
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7d15ae37b7d3a0800000000000000
+      internalID: -6640637645848478823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._8"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 18
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5b4c9fea7890cc0800000000000000
+      internalID: -3744312429597379076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._9"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 18
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03c73dc86b16710800000000000000
+      internalID: 1684828451573084324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._10"
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 17
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b3cdcc154b2f1a0800000000000000
+      internalID: -6777156225816839387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._11"
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 17
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532deda416261c3c0800000000000000
+      internalID: -4341080395800980939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._12"
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 18
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876df720795c31c0800000000000000
+      internalID: -4522641587544692863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._13"
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 17
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd0ce3254f1b4c0800000000000000
+      internalID: -4273365937320567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._14"
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 18
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6f88e992875ed0800000000000000
+      internalID: -2425326276772402236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._15"
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 18
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766fdfef475d19820800000000000000
+      internalID: 2923352331611141735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._16"
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 18
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e747cc02a28a6280800000000000000
+      internalID: -9049276868736890910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._17"
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 68
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1402efdbe70f8b0800000000000000
+      internalID: -5120453421842808348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._18"
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 18
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4783ed2249f47bd0800000000000000
+      internalID: -2633205819471853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._19"
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 17
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e903fe0f290d20040800000000000000
+      internalID: 4612478297906819230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._20"
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 18
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca6f7f6c63135d0800000000000000
+      internalID: -3084624041580516214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._21"
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce453ec46a027a0800000000000000
+      internalID: -6403935820959126427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._22"
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 18
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eaa6a6cdb86a000800000000000000
+      internalID: 46878624928411250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._23"
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 17
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43571c155b892e50800000000000000
+      internalID: 6785107511270134607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._24"
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 18
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d0b9d86f7759be0800000000000000
+      internalID: -1471137802445189777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._25"
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 68
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb3269be47e7cad0800000000000000
+      internalID: -2681920727772152840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._26"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516484992bef94a00800000000000000
+      internalID: 741403656708441621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._27"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920eeb34377bfd390800000000000000
+      internalID: -7791307124641963991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._28"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 17
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da229cad67f7416c0800000000000000
+      internalID: -4173570806212123987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._29"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d3f737882dd260800000000000000
+      internalID: 7123894746794416081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._30"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc136a32e94660870800000000000000
+      internalID: 8648710764777320909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._31"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 17
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f24cc0984d1ef0800000000000000
+      internalID: -135872627011817037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._32"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 18
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288c5461849922230800000000000000
+      internalID: 3612618385994926210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._33"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 17
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7854607649b90860800000000000000
+      internalID: 7496726766919374970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._34"
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 18
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74faeccf811de9f40800000000000000
+      internalID: 5737252880567414599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._35"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 17
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd4c6c9827f4930800000000000000
+      internalID: 4129645319392910520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._36"
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 17
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b397e9fe16b76a0800000000000000
+      internalID: -6450454359494280363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._37"
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 17
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efb4d66cdef813e0800000000000000
+      internalID: -2082634605087375386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._38"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 4
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a7402160ab6c0a0800000000000000
+      internalID: -6861592447017518573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._39"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd08e2906459cd0800000000000000
+      internalID: -2552056608586670298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._40"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 17
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6a693bd17b8620800000000000000
+      internalID: 2777438781579095742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._41"
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 18
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99da563bea47f2f0800000000000000
+      internalID: -939199623193765477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._42"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1acdf85312bb00800000000000000
+      internalID: 842757353207634774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._43"
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 17
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba248a51b4c333e0800000000000000
+      internalID: -2075098737280800070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._44"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 18
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2e1395c52062e0800000000000000
+      internalID: -2134664692866602298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._45"
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 17
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395a60d9fe7ccbc0800000000000000
+      internalID: -3761491977352619719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._46"
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 17
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54242d6af6d7f73a0800000000000000
+      internalID: -6665471004991405499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._47"
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc310c7c86164480800000000000000
+      internalID: -8915413619701629708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._48"
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 17
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966416c1506a032e0800000000000000
+      internalID: -2148034481374542231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._49"
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 17
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831956fc3dfcbfa10800000000000000
+      internalID: 1944376172765090104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._50"
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 4
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e59fdf60dcabbff0800000000000000
+      internalID: -19231762162936348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._51"
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 18
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8596a4fb33358ac0800000000000000
+      internalID: -3853617573544946289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._52"
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 18
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e378ba11538f680800000000000000
+      internalID: -8721162328394482103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._53"
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 18
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9cf193717e6ccc0800000000000000
+      internalID: -3691008757654894116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._54"
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 17
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0df5e6b22022340800000000000000
+      internalID: 4837431335307956434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._55"
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5963a204dc55e1110800000000000000
+      internalID: 1233517687979259541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._56"
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c716edbdb008a0800000000000000
+      internalID: -6340859652030871987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._57"
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 18
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c3f7d76d7b709b0800000000000000
+      internalID: -5113916719999534045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._58"
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 18
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7721cbbd1e61b5350800000000000000
+      internalID: 6006419687338676855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._59"
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 0
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08fcb6784a4e8e0800000000000000
+      internalID: -1665025060683939611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._60"
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 17
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a160584d0aca62640800000000000000
+      internalID: 5054917438530192922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._61"
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 17
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba44bc127593b360800000000000000
+      internalID: 7184250147926461116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._62"
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 18
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6dd978e463d57e0800000000000000
+      internalID: -1775202967203490129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._63"
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 17
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed31c7160f313e70800000000000000
+      internalID: 9093118418038636010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._64"
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee0add009347a9b0800000000000000
+      internalID: -5069008569595457821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._65"
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 17
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade7370976220470800000000000000
+      internalID: 8359286159607066026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._0": 941820597521431412
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._1": 2017545229247993549
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._10": -6777156225816839387
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._11": -4341080395800980939
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._12": -4522641587544692863
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._13": -4273365937320567900
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._14": -2425326276772402236
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._15": 2923352331611141735
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._16": -9049276868736890910
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._17": -5120453421842808348
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._18": -2633205819471853747
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._19": 4612478297906819230
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._2": -2176129185026896288
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._20": -3084624041580516214
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._21": -6403935820959126427
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._22": 46878624928411250
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._23": 6785107511270134607
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._24": -1471137802445189777
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._25": -2681920727772152840
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._26": 741403656708441621
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._27": -7791307124641963991
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._28": -4173570806212123987
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._29": 7123894746794416081
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._3": -3112254811377648499
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._30": 8648710764777320909
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._31": -135872627011817037
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._32": 3612618385994926210
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._33": 7496726766919374970
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._34": 5737252880567414599
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._35": 4129645319392910520
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._36": -6450454359494280363
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._37": -2082634605087375386
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._38": -6861592447017518573
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._39": -2552056608586670298
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._4": 5241503878418141906
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._40": 2777438781579095742
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._41": -939199623193765477
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._42": 842757353207634774
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._43": -2075098737280800070
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._44": -2134664692866602298
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._45": -3761491977352619719
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._46": -6665471004991405499
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._47": -8915413619701629708
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._48": -2148034481374542231
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._49": 1944376172765090104
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._5": 576556871133714388
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._50": -19231762162936348
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._51": -3853617573544946289
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._52": -8721162328394482103
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._53": -3691008757654894116
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._54": 4837431335307956434
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._55": 1233517687979259541
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._56": -6340859652030871987
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._57": -5113916719999534045
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._58": 6006419687338676855
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._59": -1665025060683939611
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._6": -6561002921635104985
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._60": 5054917438530192922
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._61": 7184250147926461116
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._62": -1775202967203490129
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._63": 9093118418038636010
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._64": -5069008569595457821
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._65": 8359286159607066026
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._7": -6640637645848478823
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._8": -3744312429597379076
+      "You are Batman\u2019s support team. Use BATCOM to help him make the right choice._9": 1684828451573084324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
