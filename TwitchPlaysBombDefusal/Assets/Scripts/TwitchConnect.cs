@@ -6,13 +6,11 @@ using UnityEngine;
 
 public class TwitchConnect : MonoBehaviour
 {
-    public string username;   // Token 所属账号，填小写
-    public string oauth;      // 新 Token，带 oauth: 前缀
-    public string channel;    // 主播账号名，不带 #
-
+    public string username;   
+    public string oauth;   
+    public string channel;
     public BombVoteManager bomb;
     public TwitchChatUI chatUI;
-
     private TcpClient client;
     private StreamReader reader;
     private StreamWriter writer;
@@ -49,13 +47,10 @@ public class TwitchConnect : MonoBehaviour
 
             nextMessage = reader.ReadLineAsync();
             connected = true;
-
-            Debug.Log("Twitch 连接已建立，正在加入频道。");
         }
         catch (System.Exception)
         {
             if (!closed)
-                Debug.LogError("Twitch 连接失败，请检查网络和登录信息。");
 
             Disconnect();
         }
@@ -72,12 +67,11 @@ public class TwitchConnect : MonoBehaviour
 
             if (line == null)
             {
-                Debug.LogWarning("Twitch 连接已断开。");
+                
                 Disconnect();
                 return;
             }
 
-            // 回复服务器心跳。
             if (line.StartsWith("PING"))
             {
                 writer.WriteLine("PONG" + line.Substring(4));
@@ -92,18 +86,15 @@ public class TwitchConnect : MonoBehaviour
                     string user = line.Substring(1, nameEnd - 1);
                     string message = line.Substring(messageStart + 2);
 
-                    // 显示所有聊天内容。
                     if (chatUI != null)
                         chatUI.AddMessage(user, message);
 
-                    // 投票脚本会自行判断是不是 r、b、y。
                     if (bomb != null)
                         bomb.Vote(user, message);
                 }
             }
             else if (line.Contains("Login authentication failed"))
             {
-                Debug.LogError("Twitch 登录失败，请检查账号和新 Token。");
                 Disconnect();
                 return;
             }
@@ -112,7 +103,6 @@ public class TwitchConnect : MonoBehaviour
         }
         catch (System.Exception)
         {
-            Debug.LogWarning("Twitch 读取失败，连接已关闭。");
             Disconnect();
         }
     }

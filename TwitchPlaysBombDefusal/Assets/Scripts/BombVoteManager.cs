@@ -8,13 +8,10 @@ public class BombVoteManager : MonoBehaviour
 
     public float voteTime = 20f;
     public RedFlash redFlash;
-
     public TMP_Text timerText;
     public TMP_Text votesText;
-
     private Dictionary<string, string> votes =
         new Dictionary<string, string>();
-
     private float timeLeft;
     private bool voting;
 

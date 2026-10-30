@@ -4,22 +4,17 @@ using UnityEngine;
 public class BombManager : MonoBehaviour
 {
     public static BombManager Instance;
-
     public string correctWire = "red";
-
     public GameObject redWire;
     public GameObject blueWire;
     public GameObject yellowWire;
-
     public GameObject winPanel;
     public GameObject losePanel;
-
     public bool gameOver { get; private set; }
 
     private void Awake()
     {
         Instance = this;
-
         winPanel.SetActive(false);
         losePanel.SetActive(false);
     }
@@ -49,7 +44,6 @@ public class BombManager : MonoBehaviour
     public void ResetBomb()
     {
         gameOver = false;
-
         winPanel.SetActive(false);
         losePanel.SetActive(false);
 

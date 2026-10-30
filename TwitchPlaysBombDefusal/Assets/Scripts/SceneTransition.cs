@@ -6,13 +6,11 @@ using UnityEngine.UI;
 public class SceneTransition : MonoBehaviour
 {
     private static SceneTransition instance;
-
     private Image blackImage;
     private float fadeTime = 1.5f;
 
     public static void Load(string sceneName)
     {
-        // 防止重复跳转。
         if (instance != null) return;
 
         GameObject obj = new GameObject("SceneTransition");
@@ -25,7 +23,6 @@ public class SceneTransition : MonoBehaviour
 
     private IEnumerator Transition(string sceneName)
     {
-        // 创建最上层的全屏黑色遮罩。
         GameObject canvasObj = new GameObject("FadeCanvas");
         canvasObj.transform.SetParent(transform, false);
 
@@ -47,15 +44,9 @@ public class SceneTransition : MonoBehaviour
         rect.offsetMin = Vector2.zero;
         rect.offsetMax = Vector2.zero;
 
-        // 渐暗。
         yield return Fade(0f, 1f);
-
         Time.timeScale = 1f;
-
-        // 黑屏期间加载下一场景。
         yield return SceneManager.LoadSceneAsync(sceneName);
-
-        // 渐亮。
         yield return Fade(1f, 0f);
 
         Destroy(gameObject);

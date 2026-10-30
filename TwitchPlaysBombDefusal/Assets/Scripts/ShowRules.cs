@@ -6,7 +6,6 @@ public class ShowRules : MonoBehaviour
 {
     public GameObject[] ruleImages;
     public string nextSceneName;
-
     public float delay = 3f;
 
     private IEnumerator Start()

@@ -7,7 +7,6 @@ public class RedFlash : MonoBehaviour
 
     [Range(0f, 1f)]
     public float maxAlpha = 0.3f;
-
     private Image image;
     private bool flashing;
     private float flashTime;
